@@ -1,0 +1,13 @@
+[package]
+name = "image-downloader"
+version = "1.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.11.16"
+tokio = { version = "1.27.0", features = ["full"] }
+futures = "0.3.28"
+image = "0.24.6"
+bytes = "1.4.0"
