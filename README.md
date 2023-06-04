@@ -36,7 +36,9 @@ The downloaded files will be in numbered directories within `out/`.
 
 Reliability:
 - Stop panicking anytime an error occurs
-- If operation fails, keep trying up to N times
+- If operation fails, keep trying up to N times  
+
+
 Usability:
 - Simplify populating `urls.txt` (e.g., Python script auto-populates it for user)
 - Let user specify name for directories in `out/`
