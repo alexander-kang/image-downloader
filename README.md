@@ -15,9 +15,10 @@ rustc --version
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo & navigate to the directory
    ```sh
    git clone https://github.com/alexander-kang/image-downloader.git
+   cd image-downloader/
    ```
 2. Install dependencies
    ```sh
